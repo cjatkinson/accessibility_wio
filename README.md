@@ -20,3 +20,5 @@ grunt test
 ```
 
 When the test is complete, it will create a JSON file in /reports with the results of  the Axe scan.
+
+Note: This test expects a running Chromedriver process which can be easily installed using [BrewD](https://formulae.brew.sh/cask/chromedriver)
